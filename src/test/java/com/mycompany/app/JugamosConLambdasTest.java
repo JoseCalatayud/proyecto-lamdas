@@ -19,6 +19,14 @@ public class JugamosConLambdasTest {
 
         listaTransformar.add(new Datos(3, "Juan"));
         listaTransformar.add(new Datos(44, "Jose"));
+        listaTransformar.add(new Datos(6, "Juaquin"));
+        listaTransformar.add(new Datos(87, "Andres"));
+        listaTransformar.add(new Datos(34, "Sergio"));
+        listaTransformar.add(new Datos(54, "Alejandro"));
+        listaTransformar.add(new Datos(14, "Nicolas"));
+        listaTransformar.add(new Datos(76, "Jorge"));
+        listaTransformar.add(new Datos(57, "Felipe"));
+        listaTransformar.add(new Datos(33, "Miguel"));
     }
 
     @Test

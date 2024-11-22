@@ -1,5 +1,6 @@
 package com.mycompany.app;
 
+
 public class Datos {
     private int edad;
     private String nombre;
@@ -32,6 +33,12 @@ public class Datos {
 
     public void setNombre(String nombre) {
         this.nombre = nombre;
+    }
+
+    public static DiasSemana getRamdom (){
+
+        return DiasSemana.SABADO;
+
     }
 
     
